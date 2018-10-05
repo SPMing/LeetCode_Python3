@@ -37,10 +37,3 @@ J = "aA"
 S = "aAAbbbb"
 
 Solution().numJewelsInStones(J,S)
-
-
-
-# Time:  O(m + n)
-# Space: O(n)
-
-
